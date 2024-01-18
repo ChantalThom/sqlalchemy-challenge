@@ -4,6 +4,7 @@ Module 10
 This project uses Python and SQLAlchemy to do basic data exploration and analysis of an SQLite climate database. All analysis is done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an API (designed using Flask) for querying this climate data.
 
 ****Part 1:** Analyze and Explore the Climate Data**
+
 Climate Analysis and Data Exploration of Climate Database Using Python (Pandas, Matplotlib), SQLAlchemy (ORM Queries) and Flask
 
 Objectives
@@ -28,6 +29,7 @@ Plot the Results as a Histogram with bins=12
 
 
 ****Part 2: ** Design Your Climate App**
+
 Use FLASK to create the routes
 Routes
 /api/v1.0/precipitation
