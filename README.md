@@ -45,7 +45,9 @@ Plot the Results as a Histogram with bins=12
 Use FLASK to create the routes
 Routes
 /api/v1.0/precipitation
+
 Convert the Query Results to a Dictionary Using date as the Key and prcp as the Value
+
 Return the JSON representation of the dictionary
 
 
